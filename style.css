@@ -1,0 +1,17 @@
+body {
+    background-color: #404040;
+}
+
+.container {
+    display: flex;
+    gap: 10px;
+    height: 600px;
+    flex-direction: column;
+    background-color: #6b21a8;
+}
+
+.item {
+    width: 200px;
+    height: 200px;
+    background-color: #0e7490;
+}
